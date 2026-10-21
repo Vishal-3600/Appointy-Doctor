@@ -115,8 +115,9 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/appointy.git
-   cd appointy
+   git clone https://github.com/Vishal-3600/Appointy-Doctor.git
+   cd Appointy-master
+   
    ```
 
 2. **Install Dependencies**:
